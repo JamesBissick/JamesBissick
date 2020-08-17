@@ -27,6 +27,13 @@ This is where I try stuff and break stuff :rofl:
 **This week I spent my time on** &nbsp;&nbsp; <img src="https://i.imgur.com/SGcBeE9.gif" width="30">
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.70 % 
+SCSS         5 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.03 % 
+HTML         3 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+CSS          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
 <!--END_SECTION:waka-->
 
 
