@@ -12,7 +12,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 
-- 👨🏽‍💻 &nbsp; I’m currently working on my Portfolio
+- 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
 - 📚 &nbsp; I'm currently reading [*Rediscovering JavaScript: Master ES6, ES7, and ES8*](https://www.amazon.com/Rediscovering-JavaScript-Master-ES6-ES7/dp/1680505467)
 - 🌱 &nbsp; I’m currently learning Javascript Design Patterns
 - 🤔 &nbsp; I’m looking for some help on UIKit
