@@ -13,7 +13,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
-- 📚 &nbsp; I'm currently reading [*Rediscovering JavaScript: Master ES6, ES7, and ES8*](https://www.amazon.com/Rediscovering-JavaScript-Master-ES6-ES7/dp/1680505467)
+- 📚 &nbsp; I'm currently reading [*Learning Javascript Data Structures and Algorithms*](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878)
 - 🌱 &nbsp; I’m currently learning Javascript Design Patterns
 - 🤔 &nbsp; I’m looking for some help on UIKit
 - 💬 &nbsp; Ask me about anything, I am happy to help
