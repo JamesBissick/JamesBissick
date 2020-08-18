@@ -13,7 +13,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
-- 📚 &nbsp; I'm currently reading [*Think Like a Programmer_ An Introduction to Creative Problem Solving*](https://www.amazon.fr/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
+- 📚 &nbsp; I'm currently reading [*Think Like a Programmer: An Introduction to Creative Problem Solving*](https://www.amazon.fr/Think-Like-Programmer-Introduction-Creative/dp/1593274246)
 - 🌱 &nbsp; I’m currently learning Javascript Design Patterns
 - 🤔 &nbsp; I’m looking for some help on UIKit
 - 💬 &nbsp; Ask me about anything, I am happy to help
