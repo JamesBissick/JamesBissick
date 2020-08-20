@@ -13,7 +13,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
-- 📚 &nbsp; I'm currently reading [*The Pragmatic Programmer- From Journeyman to Master*](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=pd_lpo_14_t_0/138-5010789-3342855?_encoding=UTF8&pd_rd_i=0135957052&pd_rd_r=6f1e3431-a022-4020-b774-c8bc9f74b321&pd_rd_w=MPVbQ&pd_rd_wg=TtLAm&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=QT0P7N7Z4X1G3M6KZM7Z&psc=1&refRID=QT0P7N7Z4X1G3M6KZM7Z)
+- 📚 &nbsp; I'm currently reading [*Grokking Algorithms - An illustrated guide for programmers and other curious people*](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 - 🌱 &nbsp; I’m currently learning Javascript Design Patterns
 - 🤔 &nbsp; I’m looking for some help on UIKit
 - 💬 &nbsp; Ask me about anything, I am happy to help
