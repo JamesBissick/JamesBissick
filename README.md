@@ -56,5 +56,5 @@ JSON         5 mins          ░░░░░░░░░░░░░░░░░
 <a href="#" alt="nodejs"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="deno"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="swift"><img height="30" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="clang"><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></a>&nbsp;&nbsp;
+<a href="#" alt="clang"><img height="40" src="https://imgur.com/a/GVJSzPk"></a>&nbsp;&nbsp;
 
