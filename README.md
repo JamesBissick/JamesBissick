@@ -55,7 +55,6 @@ JSON         5 mins          ░░░░░░░░░░░░░░░░░
 <a href="#" alt="typescript"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="nodejs"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="deno"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="vue"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"></a>&nbsp;&nbsp;
 <a href="#" alt="swift"><img height="30" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;
 
 
