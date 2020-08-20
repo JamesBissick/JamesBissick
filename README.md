@@ -30,11 +30,11 @@ This is where I try stuff and break stuff :rofl:
 ```text
 Week: 12 August, 2020 - 19 August, 2020
 
-JavaScript   8 hrs 44 mins   ██████████▓░░░░░░░░░░░░░░   42.41 % 
-SCSS         6 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 % 
-HTML         4 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 % 
-CSS          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+JavaScript   9 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   43.12 % 
+SCSS         7 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.15 % 
+HTML         4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
+CSS          1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
