@@ -13,7 +13,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
-- 📚 &nbsp; I'm currently reading [*Grokking Algorithms - An illustrated guide for programmers and other curious people*](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+- 📚 &nbsp; I'm currently reading [*The Modern JavaScript Collection*](https://www.amazon.com/Modern-JavaScript-Collection-Aurelio-Rosa-ebook/dp/B07DHYM4ZW)
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving Strategies
 - 🤔 &nbsp; I’m looking for some help on UIKit
 - 💬 &nbsp; Ask me about anything, I am happy to help
