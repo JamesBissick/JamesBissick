@@ -4,8 +4,7 @@
 <!-- 
 <img width="50%" align="right" alt="Github" src="https://static.dribbble.com/users/2187949/screenshots/13965738/media/a7264b30e5da7df844f9ff61e68e7a1d.jpg"/> 
 -->
-<img width="50%" align="right" alt="Github" src="https://freeimage.host/i/dv1nTl"/>
-<br/>
+[![dv1nTl.md.png](https://iili.io/dv1nTl.md.png)](https://freeimage.host/i/dv1nTl)
 
 Hi, I'm a **Developer** & **UI/UX Designer** from France 🇫🇷 
 
