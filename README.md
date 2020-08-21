@@ -14,10 +14,11 @@ This is where I try stuff and break stuff :rofl:
 
 - 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
 - 📚 &nbsp; I'm currently reading [*Grokking Algorithms - An illustrated guide for programmers and other curious people*](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+- 🎨 I have made a color theme on Webstorm (my fav IDE), check it out! [Toybox](https://github.com/JamesHarrys/Toybox)
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving Strategies
 - 🤔 &nbsp; I’m looking for some help on UIKit
 - 💬 &nbsp; Ask me about anything, I am happy to help
-- I have made a color theme on Webstorm (my fav IDE), check it out! [Toybox](https://github.com/JamesHarrys/Toybox)
+
 
 
 <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
