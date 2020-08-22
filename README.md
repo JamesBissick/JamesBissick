@@ -15,7 +15,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on building games in Javascript
-- 📚 &nbsp; I'm currently reading [*The Modern JavaScript Collection*](https://www.amazon.com/Modern-JavaScript-Collection-Aurelio-Rosa-ebook/dp/B07DHYM4ZW)
+- 📚 &nbsp; I'm currently reading [*Get Programming with JavaScript Next: New features of ECMAScript 2015, 2016, and beyond*](https://www.amazon.com/Get-Programming-JavaScript-Next-ECMAScript/dp/1617294209)
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving Strategies
 - 🤔 &nbsp; I’m looking for some help on UIKit
 - 💬 &nbsp; Ask me about anything, I am happy to help
