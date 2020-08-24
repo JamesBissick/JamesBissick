@@ -28,7 +28,7 @@ This is where I try stuff and break stuff :rofl:
     <img src="https://i.postimg.cc/hG844zJR/linkedin.jpg" height="7%" ; width="12%" ;></img>
   </a>
   <a href="mailto:bissickj@gmail.com">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/gmail-30-722694.png" width="4%" ;></img>
+    <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4%" ;></img>
   </a>
 </div>
 
