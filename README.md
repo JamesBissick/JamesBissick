@@ -24,7 +24,11 @@ This is where I try stuff and break stuff :rofl:
 
 
 <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
-  <img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="7%" ; width="12%" ;></img></a>
+  <img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="7%" ; width="12%" ;></img>
+</a>
+<a href="bissickj@gmail.com">
+  <img src="https://image.flaticon.com/icons/png/512/281/281769.png" height="7%" ; width="12%" ;></img>
+</a>
 
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
