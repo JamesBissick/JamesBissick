@@ -22,16 +22,16 @@ This is where I try stuff and break stuff :rofl:
 - 🎨 &nbsp; I've made a color theme on Webstorm (my fav IDE), check it out! [Toybox](https://github.com/JamesHarrys/Toybox)
 
 
-<!-- Contact -->
+<!-- Contact
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
   <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
     <img src="https://www.cbronline.com/wp-content/uploads/2016/06/linkedin.jpg" height="7%" ; width="12%" ;></img>
   </a>
-  <a href="bissickj@gmail.com">
+  <a href="mailto:bissickj@gmail.com">
     <img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="5%" ;></img>
   </a>
 </div>
-
+-->
 
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
@@ -53,14 +53,6 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 **Languages and Tools:**
 
 <!-- <a href="#" alt="reactjs"><code><img height="20" src="https://svgshare.com/i/NWx.svg"></code></a> -->
-
-<!--
-<a href="#" alt="javascript"><code><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
-<a href="#" alt="typescript"><code><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></code></a>
-<a href="#" alt="deno"><code><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></code></a>
-<a href="#" alt="swift"><code><img height="30" src="https://svgshare.com/i/NWS.svg"></code></a>
--->
 
 <a href="#" alt="javascript"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="typescript"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></a>&nbsp;&nbsp;
