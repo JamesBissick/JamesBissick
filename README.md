@@ -25,17 +25,19 @@ This is where I try stuff and break stuff :rofl:
 
 <!-- Contact -->
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
-  <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
-    <img src="https://i.postimg.cc/hG844zJR/linkedin.jpg" height="8%" ; width="13%" ;></img>
+  
+  <a href="https://twitter.com/harrys_nature">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png" width="4.5%" ;></img>
   </a>
   &nbsp;
   <a href="mailto:bissickj@gmail.com">
     <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4.5%" ;></img>
   </a>
   &nbsp;
-  <a href="https://twitter.com/harrys_nature">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png" width="4.5%" ;></img>
+  <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
+    <img src="https://i.postimg.cc/hG844zJR/linkedin.jpg" height="8%" ; width="13%" ;></img>
   </a>
+  
 </div>
 
 <br/>
