@@ -30,7 +30,7 @@ This is where I try stuff and break stuff :rofl:
   </a>
   &nbsp;
   <a href="mailto:bissickj@gmail.com">
-    <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="5%" ;></img>
+    <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4.5%" ;></img>
   </a>
 </div>
 
