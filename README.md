@@ -32,6 +32,10 @@ This is where I try stuff and break stuff :rofl:
   <a href="mailto:bissickj@gmail.com">
     <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4.5%" ;></img>
   </a>
+  &nbsp;
+  <a href="https://twitter.com/harrys_nature">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png" width="4.5%" ;></img>
+  </a>
 </div>
 
 <br/>
