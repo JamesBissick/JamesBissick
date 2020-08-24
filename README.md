@@ -21,6 +21,7 @@ This is where I try stuff and break stuff :rofl:
 - 💬 &nbsp; Ask me about anything, I am happy to help
 - 🎨 &nbsp; I've made a color theme on Webstorm (my fav IDE), check it out! [Toybox](https://github.com/JamesHarrys/Toybox)
 
+<br/>
 
 <!-- Contact -->
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
@@ -33,6 +34,7 @@ This is where I try stuff and break stuff :rofl:
   </a>
 </div>
 
+<br/>
 
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
