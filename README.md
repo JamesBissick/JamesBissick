@@ -31,11 +31,11 @@ This is where I try stuff and break stuff :rofl:
   </a>
   &nbsp;
   <a href="mailto:bissickj@gmail.com">
-    <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4.5%" ;></img>
+    <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4.6%" ;></img>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
-    <img src="https://svgshare.com/i/P1f.svg" width="3.8%" ;></img>
+    <img src="https://svgshare.com/i/P1f.svg" width="3.7%" ;></img>
   </a>
   <!--
       <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
