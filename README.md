@@ -35,7 +35,7 @@ This is where I try stuff and break stuff :rofl:
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
-    <img src="https://svgshare.com/i/P1f.svg" width="3.8%" ;></img>
+    <img src="https://svgshare.com/i/P1f.svg" width="3.5%" ;></img>
   </a>
   <!--
       <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
