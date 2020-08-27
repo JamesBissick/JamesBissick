@@ -17,7 +17,7 @@ This is where I try stuff and break stuff :rofl:
 - 👨🏽‍💻 &nbsp; I’m currently working on mastering Javascript
 - 📚 &nbsp; I'm currently reading [*Get Programming with JavaScript Next: New features of ECMAScript 2015, 2016, and beyond*](https://www.amazon.com/Get-Programming-JavaScript-Next-ECMAScript/dp/1617294209)
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving Strategies
-- 🤔 &nbsp; I’m looking for some help on UIKit
+- 🤔 &nbsp; I’m looking for a pair programming partner
 - 💬 &nbsp; Ask me about anything, I am happy to help
 - 🎨 &nbsp; I've made a color theme on Webstorm (my fav IDE), check it out! [Toybox](https://github.com/JamesHarrys/Toybox)
 
