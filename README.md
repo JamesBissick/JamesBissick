@@ -15,7 +15,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on mastering Javascript
-- 📚 &nbsp; I'm currently reading [*Build an HTML5 Game: A Developer's Guide with CSS and JavaScript*](https://www.amazon.com/Build-HTML5-Game-Developers-JavaScript/dp/1593275757)
+- 📚 &nbsp; I'm currently reading [*Introducing JavaScript Game Development: Build a 2D Game from the Ground Up*](https://www.amazon.com/Introducing-JavaScript-Game-Development-Ground-ebook/dp/B077ZXR643)
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving
 - 🤔 &nbsp; I’m looking for great resources on Javascript ES6+
 - 💬 &nbsp; Ask me about anything, I am happy to help
