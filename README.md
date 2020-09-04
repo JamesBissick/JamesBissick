@@ -15,7 +15,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on mastering Javascript
-- 📚 &nbsp; I'm currently reading [*Get Programming with JavaScript Next: New features of ECMAScript 2015, 2016, and beyond*](https://www.amazon.com/Get-Programming-JavaScript-Next-ECMAScript/dp/1617294209)
+- 📚 &nbsp; I'm currently reading [*Learning Javascript Data Structures and Algorithms*](https://www.amazon.com/dp/1788623878/ref=sr_1_fkmr0_2?dchild=1&keywords=Learning+JavaScript+Data+Structures+and+Algorithms+second+ed&qid=1599207901&s=books&sr=1-2-fkmr0)
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving
 - 🤔 &nbsp; I’m looking for great resources on Javascript ES6+
 - 💬 &nbsp; Ask me about anything, I am happy to help
