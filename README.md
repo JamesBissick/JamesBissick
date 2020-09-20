@@ -53,7 +53,7 @@ This is where I try stuff and break stuff :rofl:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2020 - 18 September, 2020
+Week: 12 September, 2020 - 19 September, 2020
 
 JavaScript   1 hr 10 mins    ███████████████████████▒░   93.94 % 
 CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
