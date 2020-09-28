@@ -53,11 +53,7 @@ This is where I try stuff and break stuff :rofl:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2020 - 27 September, 2020
-
-JavaScript   21 mins         █████████████████████▓░░░   86.76 % 
-HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-SCSS         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
