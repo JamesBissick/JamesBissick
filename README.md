@@ -15,7 +15,7 @@ This is where I try stuff and break stuff :rofl:
 
 
 - 👨🏽‍💻 &nbsp; I’m currently working on mastering Javascript
-- 📚 &nbsp; I'm currently building a remake of the *1979* game [*Asteroid*](https://en.wikipedia.org/wiki/Asteroids_(video_game))
+- 📚 &nbsp; I'm currently building a remake of the **1979** game [*Asteroid*](https://en.wikipedia.org/wiki/Asteroids_(video_game))
 - 🌱 &nbsp; I’m currently learning Algorithms & Problem Solving
 - 🤔 &nbsp; I’m looking for great resources on Javascript ES6+
 - 💬 &nbsp; Ask me about anything, I am happy to help
