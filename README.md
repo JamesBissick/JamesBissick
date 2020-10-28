@@ -53,7 +53,10 @@ This is where I try stuff and break stuff :rofl:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 October, 2020 - 27 October, 2020
+
+JavaScript   47 mins         ████████████████░░░░░░░░░   64.65 % 
+Text         25 mins         ████████▓░░░░░░░░░░░░░░░░   34.95 % 
 ```
 <!--END_SECTION:waka-->
 
