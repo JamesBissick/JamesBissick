@@ -53,9 +53,7 @@ This is where I try stuff and break stuff :rofl:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
