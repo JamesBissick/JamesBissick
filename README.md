@@ -53,7 +53,7 @@ This is where I try stuff and break stuff :rofl:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2020 - 16 November, 2020
+Week: 10 November, 2020 - 17 November, 2020
 
 JavaScript   52 mins         █████████████████████████   99.73 % 
 ```
