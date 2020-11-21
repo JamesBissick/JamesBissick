@@ -55,8 +55,10 @@ This is where I try stuff and break stuff :rofl:
 ```text
 Week: 13 November, 2020 - 20 November, 2020
 
-JavaScript   2 hrs 34 mins   ████████████████████████░   96.38 % 
-Text         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript   3 hrs 51 mins   ████████████████████████░   95.64 % 
+Text         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 
