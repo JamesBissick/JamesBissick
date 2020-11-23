@@ -10,7 +10,6 @@
 
 Hi, I'm a **Developer** & **UI/UX Designer** from France 🇫🇷 
 
-<span style="color:#fff; font-family: 'Arial'; font-size: 4em;">INSPIRATION DAY</span>
 This is where I try stuff and break stuff
 
 - 👨🏽‍💻 &nbsp; I'm currently doing [*FCC*](https://www.freecodecamp.org/learn/) for fun.
