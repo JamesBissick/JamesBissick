@@ -10,7 +10,7 @@
 
 Hi, I'm a **Developer** & **UI/UX Designer** from France 🇫🇷 
 
-This is where I try stuff and break stuff :rofl:
+<!--  This is where I try stuff and break stuff :rofl: -->
 
 
 
