@@ -18,7 +18,7 @@ This is where I try stuff and break stuff
 - 🤖 &nbsp; I’m currently learning Algorithms & Problem Solving
 - 🤔 &nbsp; I’m looking for great resources on Node.js
 - 💬 &nbsp; Ask me about anything, I am happy to help
-- 🎨 &nbsp; I've made a color theme for Jetbrains IDEs [Toybox](https://github.com/JamesHarrys/Toybox)
+- 🎨 &nbsp; I've made a color theme for Jetbrains IDEs ([Toybox](https://github.com/JamesHarrys/Toybox))
 
 <br/>
 
