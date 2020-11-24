@@ -25,26 +25,13 @@ This is where I try stuff and break stuff
 <!-- Contact -->
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
   
-  <a href="https://twitter.com/harrys_nature">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/944px-Twitter_Bird.svg.png" width="4.5%" ;></img>
-  </a>
-  &nbsp;
-  <a href="mailto:bissickj@gmail.com">
-    <img src="https://i.postimg.cc/s20zgYV8/gmail.png" width="4.6%" ;></img>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
-    <img src="https://svgshare.com/i/P1f.svg" width="3.7%" ;></img>
-  </a>
-  
 <p align="left">
-  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+    <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
+  <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
   <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
   <a href="https://twitch.tv/peterthehan"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
-  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://twitter.com/harrys_nature"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
   <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
   <!--
