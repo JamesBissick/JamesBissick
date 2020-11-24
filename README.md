@@ -36,6 +36,18 @@ This is where I try stuff and break stuff
   <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
     <img src="https://svgshare.com/i/P1f.svg" width="3.7%" ;></img>
   </a>
+  
+<p align="left">
+  <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
+  <a href="https://facebook.com/peterthehan"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+  <a href="https://imgur.com/user/PeterTheHan"><img alt="Imgur" title="Imgur" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg"></a>
+  <a href="https://myanimelist.net/profile/PeterTheHan"><img alt="MyAnimeList" title="MyAnimeList" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg"></a>
+  <a href="https://reddit.com/user/PeterTheHan"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
+  <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+  <a href="https://twitch.tv/peterthehan"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+</p>
   <!--
       <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
     <img src="https://i.postimg.cc/hG844zJR/linkedin.jpg" height="8%" ; width="13%" ;></img>
