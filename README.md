@@ -66,11 +66,11 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!-- <a href="#" alt="reactjs"><code><img height="20" src="https://svgshare.com/i/NWx.svg"></code></a> -->
 
-<a href="#" alt="javascript"><img height="31" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="typescript"><img height="31" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="nodejs"><img height="34" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="deno"><img height="32" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="swift"><img height="32" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;
-<a href="#" alt="clang"><img height="31" src="https://svgshare.com/i/Ntk.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="javascript"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="typescript"><img height="33" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="nodejs"><img height="36" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="deno"><img height="34" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="swift"><img height="34" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="clang"><img height="33" src="https://svgshare.com/i/Ntk.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="vue"><img height="31" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"></a>&nbsp;&nbsp;
 <a href="#" alt="firebase"><img height="35" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png"></a>&nbsp;&nbsp;
