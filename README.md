@@ -72,4 +72,5 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 <a href="#" alt="deno"><img height="30" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="swift"><img height="30" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="clang"><img height="31" src="https://svgshare.com/i/Ntk.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="vue"><img height="31" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"></a>&nbsp;&nbsp;
 <a href="#" alt="firebase"><img height="35" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png"></a>&nbsp;&nbsp;
