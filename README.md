@@ -49,7 +49,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
 JavaScript   5 hrs 34 mins   ████████████████▒░░░░░░░░   65.00 % 
 HTML         2 hrs 56 mins   ████████▓░░░░░░░░░░░░░░░░   34.31 % 
