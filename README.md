@@ -51,8 +51,8 @@ This is where I try stuff and break stuff
 ```text
 Week: 25 November, 2020 - 02 December, 2020
 
-JavaScript   3 hrs 22 mins   ███████████████░░░░░░░░░░   59.94 % 
-HTML         2 hrs 14 mins   ██████████░░░░░░░░░░░░░░░   39.77 % 
+HTML         1 hr 56 mins    ████████████████▒░░░░░░░░   65.36 % 
+JavaScript   1 hr 1 min      ████████▓░░░░░░░░░░░░░░░░   34.44 % 
 ```
 <!--END_SECTION:waka-->
 
