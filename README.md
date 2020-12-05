@@ -49,10 +49,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2020 - 04 December, 2020
-
-HTML         46 mins         ███████████████▓░░░░░░░░░   62.14 % 
-JavaScript   28 mins         █████████▒░░░░░░░░░░░░░░░   37.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
