@@ -51,8 +51,8 @@ This is where I try stuff and break stuff
 ```text
 Week: 01 December, 2020 - 08 December, 2020
 
-JSON         1 hr 55 mins    ██████████████▒░░░░░░░░░░   57.65 % 
-JavaScript   1 hr 24 mins    ██████████▓░░░░░░░░░░░░░░   42.33 % 
+JSON         1 hr 55 mins    █████████████▓░░░░░░░░░░░   54.05 % 
+JavaScript   1 hr 38 mins    ███████████▒░░░░░░░░░░░░░   45.92 % 
 ```
 <!--END_SECTION:waka-->
 
