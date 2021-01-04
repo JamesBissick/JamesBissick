@@ -49,7 +49,9 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 December, 2020 - 03 January, 2021
+
+JavaScript   1 hr 12 mins    █████████████████████████   99.52 % 
 ```
 <!--END_SECTION:waka-->
 
