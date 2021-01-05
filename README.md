@@ -51,7 +51,7 @@ This is where I try stuff and break stuff
 ```text
 Week: 28 December, 2020 - 04 January, 2021
 
-JavaScript   1 hr 12 mins    █████████████████████████   99.52 % 
+JavaScript   2 hrs 29 mins   █████████████████████████   99.77 % 
 ```
 <!--END_SECTION:waka-->
 
