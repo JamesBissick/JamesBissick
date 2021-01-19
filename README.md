@@ -49,10 +49,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
-
-JavaScript   2 hrs 26 mins   █████████████████████░░░░   83.71 % 
-Text         27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
