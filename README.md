@@ -49,7 +49,11 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 January, 2021 - 19 January, 2021
+
+JavaScript   19 mins         ████████████████▓░░░░░░░░   66.82 % 
+JSON         6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
+Git Config   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 <!--END_SECTION:waka-->
 
