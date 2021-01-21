@@ -51,9 +51,9 @@ This is where I try stuff and break stuff
 ```text
 Week: 13 January, 2021 - 20 January, 2021
 
-JavaScript   19 mins         ████████████████▓░░░░░░░░   66.82 % 
-JSON         6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
-Git Config   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+JavaScript   1 hr            █████████████████████▓░░░   86.23 % 
+JSON         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 <!--END_SECTION:waka-->
 
