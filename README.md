@@ -49,11 +49,11 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-JavaScript   1 hr 42 mins    ███████████████████████░░   91.42 % 
-JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JavaScript   2 hrs 22 mins   ███████████████████████░░   91.53 % 
+JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
 
