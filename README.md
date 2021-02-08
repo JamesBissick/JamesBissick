@@ -49,7 +49,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 31 January, 2021 - 07 February, 2021
 
 Other        24 hrs 43 mins  ████████████████████░░░░░   79.68 % 
 JavaScript   3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
