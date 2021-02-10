@@ -8,7 +8,7 @@
 <img width="45%" align="right" alt="Scrolling" src="https://s8.gifyu.com/images/scrolling.gif"/> 
 
 
-I'm James, I'm a **Developer** & **UI/UX Designer** from France 🇫🇷 
+I'm James, I'm a **Developer** & **UI/UX Designer** from Paris, France 🇫🇷 
 
 This is where I try stuff and break stuff
 
