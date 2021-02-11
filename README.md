@@ -13,7 +13,7 @@ I'm James, I'm a **Developer** & **UI/UX Designer** from Paris, France 🇫🇷
 This is where I try stuff and break stuff
 
 
-- 👨🏽‍💻 &nbsp;&nbsp; Currently doing the whole **Freecodecamp** curriculum.
+- 👨🏽‍💻 &nbsp;&nbsp; Currently doing the whole **Freecodecamp** curriculum for fun.
 - 🎓 &nbsp; Master **M1** Degree in Computer Science at **HETIC**
 - 🤖 &nbsp; Currently learning **Algorithms & Problem Solving**
 - 📚 &nbsp; I read a lot and I'm currently reading [*Learning JavaScript Data Structures and Algorithms*](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms/dp/1783554878/ref=pd_lpo_14_img_1/138-3926693-0463369?_encoding=UTF8&pd_rd_i=1783554878&pd_rd_r=5c5d8644-9a3e-4a3c-952b-1e52471d9fdf&pd_rd_w=x2ikF&pd_rd_wg=FYYdD&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=MDXQX3AX6BXX0YP7WSAP&psc=1&refRID=MDXQX3AX6BXX0YP7WSAP)
