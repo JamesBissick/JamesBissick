@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> -->
 
-<img src="https://i.imgur.com/SGcBeE9.gif" width="27"> **This week I spent my time on** &nbsp;&nbsp; 
+<img src="https://i.imgur.com/SGcBeE9.gif" width="27"> &nbsp;&nbsp; **This week I spent my time on** 
 
 <!--START_SECTION:waka-->
 ```text
