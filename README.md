@@ -51,10 +51,10 @@ This is where I try stuff and break stuff
 ```text
 Week: 09 February, 2021 - 16 February, 2021
 
-JavaScript   10 hrs 4 mins   ████████████▓░░░░░░░░░░░░   50.85 % 
-Other        9 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   46.73 % 
-Git Config   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript   14 hrs 14 mins  ██████████████▓░░░░░░░░░░   59.24 % 
+Other        9 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.56 % 
+Git Config   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 <!--END_SECTION:waka-->
 
