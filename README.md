@@ -51,9 +51,9 @@ This is where I try stuff and break stuff
 ```text
 Week: 26 February, 2021 - 05 March, 2021
 
-JavaScript   4 hrs 55 mins   ██████████████████████▒░░   89.67 % 
-TypeScript   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript   6 hrs 43 mins   ███████████████████████░░   92.09 % 
+TypeScript   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
 
