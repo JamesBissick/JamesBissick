@@ -16,7 +16,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp;&nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
 - 🎓 &nbsp; Master **M1** Degree in Computer Science at **HETIC**
 - 🤖 &nbsp; Currently learning **Algorithms & Problem Solving**
-- 📚 &nbsp; I read a lot and I'm currently reading [*Learning React_ A Hands-On Guide to Building Web Applications Using React and Redux!*](https://www.amazon.com/Learning-React-Hands-Building-Applications/dp/013484355X)
+- 📚 &nbsp; I read a lot and I'm currently reading [*Learning React - A Hands-On Guide to Building Web Applications Using React and Redux!*](https://www.amazon.com/Learning-React-Hands-Building-Applications/dp/013484355X)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
