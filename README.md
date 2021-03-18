@@ -49,7 +49,9 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 March, 2021 - 17 March, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
