@@ -51,7 +51,7 @@ This is where I try stuff and break stuff
 ```text
 Week: 11 March, 2021 - 18 March, 2021
 
-
+JavaScript   1 min           ████████████████████████▒   96.76 % 
 ```
 <!--END_SECTION:waka-->
 
