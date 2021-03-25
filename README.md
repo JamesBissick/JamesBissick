@@ -16,7 +16,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp;&nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
 - 🎓 &nbsp; Master **M1** Degree in Computer Science at **HETIC**
 - 🤖 &nbsp; Currently learning **Algorithms & Problem Solving**
-- 📚 &nbsp; I read a lot and I'm currently reading [*Learning React - A Hands-On Guide to Building Web Applications Using React and Redux!*](https://www.amazon.com/Learning-React-Hands-Building-Applications/dp/013484355X)
+- 📚 &nbsp; I read a lot and I'm currently reading [*React Projects by Roy Derks*](https://www.amazon.com/React-Projects-real-world-applications-scratch-dp-1789954932/dp/1789954932/ref=mt_other?_encoding=UTF8&me=&qid=)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
@@ -27,18 +27,12 @@ This is where I try stuff and break stuff
   
 <p align="left">
     <a href="https://steamcommunity.com/id/ojrsh/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
-  <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/james-bissick/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="https://open.spotify.com/user/e684zswkmuqiweuqsunr5wt6b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
   <a href="https://www.twitch.tv/jamesharrys"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
   <a href="https://twitter.com/harrys_nature"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
   <a href="https://www.youtube.com/channel/UCFmFnhx5fSAZC0dT2n5xWqg?view_as=subscriber"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
-  <!--
-      <a href="https://www.linkedin.com/in/jean-marc-bissick-945b3a153/">
-    <img src="https://i.postimg.cc/hG844zJR/linkedin.jpg" height="8%" ; width="13%" ;></img>
-  </a>
-  -->
-  
 </div>
 
 <br/>
