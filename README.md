@@ -45,8 +45,10 @@ This is where I try stuff and break stuff
 ```text
 Week: 17 March, 2021 - 24 March, 2021
 
-Other        1 hr 30 mins    ████████████████████████▓   98.09 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Other        1 hr 30 mins    ████████████▓░░░░░░░░░░░░   50.03 % 
+JavaScript   58 mins         ████████░░░░░░░░░░░░░░░░░   32.56 % 
+HTML         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 <!--END_SECTION:waka-->
 
