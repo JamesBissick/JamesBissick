@@ -13,7 +13,7 @@ I'm James, I'm a **Developer** & **UI/UX Designer** from Paris, France 🇫🇷
 This is where I try stuff and break stuff
 
 
-- 👨🏽‍💻 &nbsp;&nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
+- 👨🏽‍💻 &nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
 - 🎓 &nbsp; Master **M1** Degree in Computer Science at **HETIC**
 - 🤖 &nbsp; Currently learning **Algorithms & Problem Solving**
 - 📚 &nbsp; I'm currently reading [*React Projects by Roy Derks*](https://www.amazon.com/React-Projects-real-world-applications-scratch-dp-1789954932/dp/1789954932/ref=mt_other?_encoding=UTF8&me=&qid=)
