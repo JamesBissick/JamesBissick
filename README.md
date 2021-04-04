@@ -42,7 +42,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2021 - 02 April, 2021
+Week: 27 March, 2021 - 03 April, 2021
 
 Python       6 hrs 20 mins   ██████████████████░░░░░░░   72.24 % 
 Go           1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
