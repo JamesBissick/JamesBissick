@@ -44,10 +44,10 @@ This is where I try stuff and break stuff
 ```text
 Week: 29 March, 2021 - 05 April, 2021
 
-Python       6 hrs 20 mins   ██████████████████░░░░░░░   72.24 % 
-Go           1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Other        1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Python       6 hrs 20 mins   ██████████████████░░░░░░░   71.76 % 
+Go           1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other        1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 <!--END_SECTION:waka-->
 
