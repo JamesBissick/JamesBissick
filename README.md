@@ -42,13 +42,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 April, 2021 - 13 April, 2021
-
-JavaScript   1 hr 28 mins    ██████████▒░░░░░░░░░░░░░░   41.05 % 
-Other        1 hr            ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-JSX          32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-CSS          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
