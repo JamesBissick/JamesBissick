@@ -42,7 +42,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
+Week: 14 April, 2021 - 21 April, 2021
 
 JavaScript   5 hrs 26 mins   ███████████████░░░░░░░░░░   60.56 % 
 Other        2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
