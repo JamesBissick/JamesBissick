@@ -44,11 +44,11 @@ This is where I try stuff and break stuff
 ```text
 Week: 17 April, 2021 - 24 April, 2021
 
-JavaScript   4 hrs 34 mins   ███████████████▒░░░░░░░░░   60.96 % 
-Other        2 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.62 % 
-CSS          43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JavaScript   2 hrs 46 mins   █████████████▓░░░░░░░░░░░   54.91 % 
+Other        2 hrs           ██████████░░░░░░░░░░░░░░░   39.47 % 
+Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
 
