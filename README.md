@@ -15,7 +15,7 @@ This is where I try stuff and break stuff
 
 - 👨🏽‍💻 &nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
-- 🤖 &nbsp; Currently learning **Algorithms & Problem Solving**
+- 🤖 &nbsp; Currently learning **Python**
 - 📚 &nbsp; I'm currently reading [*React Projects by Roy Derks*](https://www.amazon.com/React-Projects-real-world-applications-scratch-dp-1789954932/dp/1789954932/ref=mt_other?_encoding=UTF8&me=&qid=)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
