@@ -6,7 +6,7 @@
 <img width="50%" align="right" alt="Github" src="https://iili.io/dv1nTl.md.png"/> 
 <img width="42%" align="right" alt="Scrolling" src="https://s8.gifyu.com/images/scrolling.gif"/>
 -->
-<img width="42%" padding-left: "-20px" align="right" alt="Scrolling" src="https://s3.gifyu.com/images/communitydb7bd1f3c5aa2115.png"/> 
+<img width="42%" padding-left="-20px" align="right" alt="Scrolling" src="https://s3.gifyu.com/images/communitydb7bd1f3c5aa2115.png"/> 
 
 
 I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris, France 🇫🇷 
