@@ -43,13 +43,13 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 April, 2021 - 30 April, 2021
+Week: 24 April, 2021 - 01 May, 2021
 
-Python       9 hrs 33 mins   ████████████████▒░░░░░░░░   65.12 % 
-JavaScript   4 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   28.78 % 
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-CSS          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python       11 hrs 11 mins  █████████████████░░░░░░░░   68.64 % 
+JavaScript   4 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
+Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+CSS          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 
