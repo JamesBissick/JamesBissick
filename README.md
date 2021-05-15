@@ -17,7 +17,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
-- 📚 &nbsp; I'm currently going through [*Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)*](https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery)
+- 📚 &nbsp; I'm currently going through [*Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL) - by Andrei Neagoie & Yihua Zhang*](https://academy.zerotomastery.io/p/complete-react-developer-redux-hooks-graphql-zero-to-mastery)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
