@@ -17,7 +17,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
-- 📚 &nbsp; I'm currently going through [*React Projects*](https://www.packtpub.com/product/react-projects/9781789954937)
+- 📚 &nbsp; I'm currently reading [*React Projects*](https://www.packtpub.com/product/react-projects/9781789954937)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
