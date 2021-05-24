@@ -43,7 +43,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2021 - 22 May, 2021
+Week: 16 May, 2021 - 23 May, 2021
 
 Python       3 hrs 18 mins   ██████████▓░░░░░░░░░░░░░░   42.25 % 
 JavaScript   3 hrs 13 mins   ██████████▒░░░░░░░░░░░░░░   41.30 % 
