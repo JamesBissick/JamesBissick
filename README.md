@@ -43,7 +43,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2021 - 25 May, 2021
+Week: 19 May, 2021 - 26 May, 2021
 
 JSX          2 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 % 
 JavaScript   2 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.90 % 
