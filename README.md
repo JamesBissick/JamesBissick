@@ -14,7 +14,7 @@ I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris, France 🇫�
 This is where I try stuff and break stuff
 
 
-- 👨🏽‍💻 &nbsp; Currently doing the whole **Freecodecamp** curriculum for fun
+- 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
 - 📚 &nbsp; I'm currently reading [*React Projects*](https://www.packtpub.com/product/react-projects/9781789954937)
