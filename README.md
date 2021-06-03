@@ -44,13 +44,13 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 May, 2021 - 01 June, 2021
+Week: 26 May, 2021 - 02 June, 2021
 
-JSX          5 hrs 20 mins   ██████████████░░░░░░░░░░░   56.11 % 
-JavaScript   2 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 % 
-Other        1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Git Config   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-SCSS         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JSX          9 hrs 12 mins   ████████████████▓░░░░░░░░   66.33 % 
+JavaScript   2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Other        1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Git Config   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+SCSS         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 <!--END_SECTION:waka-->
 
