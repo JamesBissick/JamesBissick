@@ -10,7 +10,7 @@
 <img width="45%" padding-left="-20px" align="right" alt="Challenge" src="https://i.ibb.co/n0tH2Nj/ezgif-2-a598e1dfdf47.png"/> 
 
 
-I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris, France 🇫🇷 
+I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris 🇫🇷 
 
 This is where I try stuff and break stuff
 
