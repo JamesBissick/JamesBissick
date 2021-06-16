@@ -46,10 +46,8 @@ This is where I try stuff and break stuff
 ```text
 Week: 08 June, 2021 - 15 June, 2021
 
-Other        6 hrs 30 mins   ███████████████████░░░░░░   76.41 % 
-JavaScript   1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.81 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other        6 hrs 30 mins   ████████████████████████░   96.62 % 
+JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 <!--END_SECTION:waka-->
 
