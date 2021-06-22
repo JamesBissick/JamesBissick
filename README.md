@@ -65,8 +65,8 @@ CSS     23 mins         █▒░░░░░░░░░░░░░░░░�
 <a href="#" alt="nodejs"><img height="37" src="https://github.com/blackcater/blackcater/blob/main/images/logo-nodejs.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="deno"><img height="34" src="https://github.com/blackcater/blackcater/blob/main/images/logo-deno.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="swift"><img height="34" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" alt="python"><img height="36" src="https://svgshare.com/i/VhQ.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" alt="react"><img height="34" src="https://svgshare.com/i/RjK.svg"></a>&nbsp;
+<a href="#" alt="python"><img height="36" src="https://svgshare.com/i/VhQ.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="react"><img height="34" src="https://svgshare.com/i/RjK.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="figma"><img height="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></a>&nbsp;&nbsp;
 <a href="#" alt="golang"><img height="37" src="https://i.ibb.co/q5krM6Q/3308007-0.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="graphql"><img height="35" src="https://svgshare.com/i/VBo.svg"></a>&nbsp;&nbsp;&nbsp;
