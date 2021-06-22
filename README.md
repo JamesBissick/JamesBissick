@@ -44,7 +44,13 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 June, 2021 - 21 June, 2021
+
+JSX     2 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.70 % 
+SCSS    2 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.60 % 
+JSON    1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Other   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+CSS     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 <!--END_SECTION:waka-->
 
