@@ -44,7 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2021 - 01 July, 2021
+Week: 26 June, 2021 - 02 July, 2021
 
 Other        1 hr 30 mins    █████████████████████▒░░░   84.97 % 
 TypeScript   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 % 
