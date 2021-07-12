@@ -44,7 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
 Go         8 hrs 52 mins   █████████████████████▒░░░   85.40 % 
 YAML       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
