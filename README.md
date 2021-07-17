@@ -46,8 +46,8 @@ This is where I try stuff and break stuff
 ```text
 Week: 10 July, 2021 - 16 July, 2021
 
-Other        3 hrs           ████████████████████████▓   98.79 % 
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other        4 hrs           ████████████████████████▓   99.09 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
