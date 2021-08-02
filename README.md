@@ -44,7 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
 Markdown     2 hrs 6 mins    █████████████████▒░░░░░░░   69.24 % 
 Go           22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
