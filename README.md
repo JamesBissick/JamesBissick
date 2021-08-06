@@ -46,11 +46,10 @@ This is where I try stuff and break stuff
 ```text
 Week: 30 July, 2021 - 05 August, 2021
 
-Go           5 hrs 17 mins   █████████████████████▒░░░   85.26 % 
-Markdown     28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JSX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Go           5 hrs 3 mins    ███████████████████████▓░   94.61 % 
+JSX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
