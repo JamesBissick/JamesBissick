@@ -46,9 +46,9 @@ This is where I try stuff and break stuff
 ```text
 Week: 03 August, 2021 - 09 August, 2021
 
-Go           5 hrs           ████████████████████████░   96.48 % 
-JSX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Go      2 hrs 42 mins   ████████████████▒░░░░░░░░   65.24 % 
+Other   1 hr            ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+JSX     26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 ```
 <!--END_SECTION:waka-->
 
