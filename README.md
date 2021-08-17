@@ -46,11 +46,11 @@ This is where I try stuff and break stuff
 ```text
 Week: 10 August, 2021 - 16 August, 2021
 
-Other        3 hrs 15 mins   █████████████▒░░░░░░░░░░░   53.01 % 
-JSX          2 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.65 % 
-SCSS         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other        2 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.04 % 
+JSX          1 hr 55 mins    ██████████▒░░░░░░░░░░░░░░   41.05 % 
+SCSS         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
