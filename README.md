@@ -44,7 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 20 August, 2021
+Week: 15 August, 2021 - 21 August, 2021
 
 JSX          1 hr 10 mins    █████████████████▓░░░░░░░   70.83 % 
 Other        25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.00 % 
