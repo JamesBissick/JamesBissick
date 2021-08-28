@@ -44,11 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2021 - 27 August, 2021
-
-JSX          1 hr 10 mins    ███████████████████████▓░   94.43 % 
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-XML          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
