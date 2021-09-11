@@ -44,7 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2021 - 09 September, 2021
+Week: 04 September, 2021 - 10 September, 2021
 
 JSX          2 hrs 24 mins   ████████████░░░░░░░░░░░░░   47.99 % 
 C#           1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.28 % 
