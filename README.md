@@ -46,11 +46,11 @@ This is where I try stuff and break stuff
 ```text
 Week: 07 September, 2021 - 13 September, 2021
 
-JSX          1 hr 24 mins    ██████████▒░░░░░░░░░░░░░░   41.55 % 
-C#           1 hr 22 mins    ██████████░░░░░░░░░░░░░░░   40.53 % 
-TypeScript   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JSX          1 hr 24 mins    █████████████████▒░░░░░░░   69.92 % 
+TypeScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Git Config   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 <!--END_SECTION:waka-->
 
