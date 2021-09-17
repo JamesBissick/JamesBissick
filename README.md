@@ -46,10 +46,8 @@ This is where I try stuff and break stuff
 ```text
 Week: 10 September, 2021 - 16 September, 2021
 
-Other        2 hrs           ███████████████████░░░░░░   75.99 % 
-JSX          22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-TypeScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Other   2 hrs           █████████████████████░░░░   84.38 % 
+JSX     22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 <!--END_SECTION:waka-->
 
