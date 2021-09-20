@@ -44,10 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
-
-Other   2 hrs           █████████████████████░░░░   84.38 % 
-JSX     22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
