@@ -18,7 +18,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
-- 📚 &nbsp; I'm currently reading [*React Projects*](https://www.packtpub.com/product/react-projects/9781789954937)
+- 📚 &nbsp; I'm currently reading [*Learn Python Programming - Second Edition*](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
