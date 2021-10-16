@@ -44,7 +44,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2021 - 14 October, 2021
+Week: 09 October, 2021 - 15 October, 2021
 
 Python       8 hrs 47 mins   ████████████████████████░   96.30 % 
 Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
