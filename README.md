@@ -46,8 +46,7 @@ This is where I try stuff and break stuff
 ```text
 Week: 10 October, 2021 - 16 October, 2021
 
-Python       12 hrs 52 mins  ████████████████████████▒   97.44 % 
-Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Python       12 hrs 52 mins  █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
 
