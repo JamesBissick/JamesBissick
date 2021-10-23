@@ -18,7 +18,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
-- 📚 &nbsp; I'm currently reading [*Learn Python Programming - 2nd Edition*](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662)
+- 📚 &nbsp; I'm currently reading [*Apprendre la programmation web avec Python et Django*](https://www.eyrolles.com/Informatique/Livre/apprendre-la-programmation-web-avec-python-et-django-9782212675153/)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
