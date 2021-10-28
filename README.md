@@ -16,7 +16,7 @@ I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris 🇫🇷
 This is where I try stuff and break stuff
 
 
-- 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
+- 👨🏽‍💻 &nbsp;&nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
 - 📚 &nbsp; I'm currently reading [*Apprendre la programmation web avec Python et Django*](https://www.eyrolles.com/Informatique/Livre/apprendre-la-programmation-web-avec-python-et-django-9782212675153/)
