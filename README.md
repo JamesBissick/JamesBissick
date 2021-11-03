@@ -45,7 +45,9 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 October, 2021 - 02 November, 2021
+
+Python   16 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
