@@ -19,7 +19,7 @@ This is where I try stuff and break stuff
 - 👨🏽‍💻 &nbsp;&nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
-- 📚 &nbsp; I'm currently going through [*Complete Python Developer in 2022 by ZTM*](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery)
+- 📚 &nbsp; I'm currently going through [*Complete Python Developer in 2022: Zero to Mastery*](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery)
 - 🤔 &nbsp; I’m looking for great resources on **Golang**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
