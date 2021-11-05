@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 03 November, 2021
+Week: 29 October, 2021 - 04 November, 2021
 
 Python   30 mins         █████████████████████████   100.00 % 
 ```
