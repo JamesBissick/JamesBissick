@@ -47,7 +47,7 @@ This is where I try stuff and break stuff
 ```text
 Week: 29 October, 2021 - 04 November, 2021
 
-Python   30 mins         █████████████████████████   100.00 % 
+Python       43 mins         ████████████████████████▓   98.24 % 
 ```
 <!--END_SECTION:waka-->
 
