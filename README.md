@@ -47,7 +47,11 @@ This is where I try stuff and break stuff
 ```text
 Week: 30 October, 2021 - 05 November, 2021
 
-Python       43 mins         ████████████████████████▓   98.24 % 
+PHP      1 hr 49 mins    ██████████▒░░░░░░░░░░░░░░   41.09 % 
+Other    1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   36.18 % 
+Python   43 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+YAML     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Twig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
 
