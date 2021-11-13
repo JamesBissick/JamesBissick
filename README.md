@@ -45,12 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
-
-Other        3 hrs 3 mins    ███████████████░░░░░░░░░░   59.45 % 
-PHP          1 hr 49 mins    █████████░░░░░░░░░░░░░░░░   35.42 % 
-YAML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Twig         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
