@@ -47,10 +47,10 @@ This is where I try stuff and break stuff
 ```text
 Week: 15 November, 2021 - 21 November, 2021
 
-Python       2 hrs 9 mins    ███████████████████░░░░░░   75.47 % 
-Other        30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
-JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python       2 hrs 12 mins   ███████████████████░░░░░░   75.85 % 
+Other        30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
 
