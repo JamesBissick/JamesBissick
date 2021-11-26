@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2021 - 24 November, 2021
+Week: 19 November, 2021 - 25 November, 2021
 
 JavaScript   5 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.58 % 
 YAML         1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
