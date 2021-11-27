@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 November, 2021 - 25 November, 2021
+Week: 20 November, 2021 - 26 November, 2021
 
 JavaScript   5 hrs 26 mins   ██████████░░░░░░░░░░░░░░░   40.12 % 
 PHP          1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
