@@ -47,11 +47,11 @@ This is where I try stuff and break stuff
 ```text
 Week: 15 December, 2021 - 21 December, 2021
 
-Twig         2 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   36.74 % 
-PHP          1 hr 56 mins    ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
-Other        1 hr 22 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
-Python       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Twig         3 hrs 32 mins   ████████████░░░░░░░░░░░░░   47.45 % 
+PHP          3 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.09 % 
+Python       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+CSV/TSV      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 <!--END_SECTION:waka-->
 
