@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
 PHP        3 hrs 8 mins    ████████████▒░░░░░░░░░░░░   49.79 % 
 Twig       1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
