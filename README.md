@@ -47,10 +47,7 @@ This is where I try stuff and break stuff
 ```text
 Week: 31 December, 2021 - 06 January, 2022
 
-PHP         1 hr 43 mins    ██████████████▒░░░░░░░░░░   57.92 % 
-JSX         1 hr            ████████▒░░░░░░░░░░░░░░░░   33.97 % 
-Twig        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-SQL         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JSX          1 hr            █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
