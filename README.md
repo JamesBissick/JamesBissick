@@ -65,9 +65,12 @@ JSX          1 hr            █████████████████
 <a href="#" alt="python"><img height="36" src="https://svgshare.com/i/VhQ.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="react"><img height="34" src="https://svgshare.com/i/RjK.svg"></a>&nbsp;&nbsp;
 <a href="#" alt="figma"><img height="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"></a>&nbsp;&nbsp;
+<a href="#" alt="postgresql"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" alt="firebase"><img height="35" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png"></a>&nbsp;&nbsp;
 <!--
 <a href="#" alt="golang"><img height="37" src="https://i.ibb.co/q5krM6Q/3308007-0.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="graphql"><img height="35" src="https://svgshare.com/i/VBo.svg"></a>&nbsp;&nbsp;&nbsp;
+
 -->
-<a href="#" alt="firebase"><img height="35" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png"></a>&nbsp;&nbsp;
+
 
