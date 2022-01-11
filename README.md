@@ -45,7 +45,11 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 January, 2022 - 10 January, 2022
+
+PHP     2 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.13 % 
+Twig    1 hr 49 mins    ███████████▒░░░░░░░░░░░░░   44.83 % 
+Other   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 ```
 <!--END_SECTION:waka-->
 
