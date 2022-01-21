@@ -45,13 +45,13 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
-PHP          16 hrs 17 mins  ████████████▓░░░░░░░░░░░░   50.64 % 
-Twig         10 hrs 49 mins  ████████▒░░░░░░░░░░░░░░░░   33.63 % 
-JavaScript   2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Other        2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-SQL          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+PHP          13 hrs 40 mins  ███████████▓░░░░░░░░░░░░░   46.10 % 
+Twig         11 hrs 54 mins  ██████████░░░░░░░░░░░░░░░   40.18 % 
+JavaScript   3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+SQL          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 
