@@ -62,7 +62,7 @@ JSON             1 min           ▒░░░░░░░░░░░░░░�
 
 <a href="#" alt="javascript"><img height="33" src="https://github.com/blackcater/blackcater/blob/main/images/logo-javascript.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="typescript"><img height="33" src="https://github.com/blackcater/blackcater/blob/main/images/logo-typescript.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="#" alt="nodejs"><img height="38" src="https://github.com/blackcater/blackcater/blob/main/images/logo-nodejs.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="#" alt="nodejs"><img height="37" src="https://github.com/blackcater/blackcater/blob/main/images/logo-nodejs.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="deno"><img height="34" src="https://github.com/blackcater/blackcater/blob/main/images/logo-deno.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="swift"><img height="34" src="https://svgshare.com/i/NWS.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="python"><img height="36" src="https://svgshare.com/i/VhQ.svg"></a>&nbsp;&nbsp;
