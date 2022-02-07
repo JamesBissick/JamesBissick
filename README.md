@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 JavaScript       2 hrs 11 mins   ███████████████████▓░░░░░   78.36 % 
 YAML             20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
