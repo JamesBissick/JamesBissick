@@ -45,7 +45,7 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
 PHP          8 hrs 23 mins   ██████████████▒░░░░░░░░░░   56.68 % 
 Twig         3 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
