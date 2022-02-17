@@ -45,15 +45,15 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 14 hrs 47 mins
+Total: 8 hrs 59 mins
 
-PHP          8 hrs 23 mins   ██████████████▒░░░░░░░░░░   56.68 % 
-Twig         3 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-JavaScript   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-SQL          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Docker       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+PHP         4 hrs           ███████████░░░░░░░░░░░░░░   44.62 % 
+Twig        3 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.03 % 
+Docker      37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+SQL         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+.env file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
 
