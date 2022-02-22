@@ -45,13 +45,10 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 ```text
-From: 12 February, 2022 - To: 19 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
-PHP         4 hrs           ███████████░░░░░░░░░░░░░░   44.62 % 
-Twig        3 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.03 % 
-Docker      37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-SQL         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-.env file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+PHP    3 hrs 14 mins   █████████████████░░░░░░░░   67.58 % 
+Twig   1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   32.35 % 
 ```
 <!--END_SECTION:waka-->
 
