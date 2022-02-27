@@ -33,7 +33,7 @@ This is where I try stuff and break stuff
   <a href="https://www.linkedin.com/in/james-bissick/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="https://open.spotify.com/user/e684zswkmuqiweuqsunr5wt6b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
   <a href="https://www.twitch.tv/jamesharrys"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
-  <a href="https://www.youtube.com/channel/UCFmFnhx5fSAZC0dT2n5xWqg?view_as=subscriber"><img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+  <a href="https://www.youtube.com/channel/UCFmFnhx5fSAZC0dT2n5xWqg?view_as=subscriber"><img alt="YouTube" title="YouTube" height="33" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
 </div>
 
