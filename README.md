@@ -44,12 +44,18 @@ This is where I try stuff and break stuff
 **This week I spent my time on** 
 
 <!--START_SECTION:waka-->
-```text
-From: 16 February, 2022 - To: 23 February, 2022
 
-PHP    3 hrs 14 mins   █████████████████░░░░░░░░   67.58 % 
-Twig   1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   32.35 % 
+```text
+From: 19 February 2022 - To: 26 February 2022
+
+PHP              3 hrs 44 mins   ██████████████▓░░░░░░░░░░   59.21 %
+Twig             56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+YAML             55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+JavaScript       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+HTML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
+
 <!--END_SECTION:waka-->
 
 
