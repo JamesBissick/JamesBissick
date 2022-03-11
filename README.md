@@ -46,13 +46,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 09 March 2022
+From: 03 March 2022 - To: 10 March 2022
 
-JavaScript   11 hrs 19 mins  ████████████████████▓░░░░   82.01 %
-CSS          56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Go           42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JavaScript   17 hrs 52 mins  █████████████████████▒░░░   85.81 %
+Go           1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
