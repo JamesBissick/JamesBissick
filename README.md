@@ -16,7 +16,7 @@ I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris 🇫🇷
 This is where I try stuff and break stuff
 
 
-- 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
+- 👨🏽‍💻 &nbsp;&nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
 - 🤖 &nbsp; Currently learning **Python**
 - 📚 &nbsp; I'm currently going through [*Complete Python Developer in 2022: Zero to Mastery*](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery)
