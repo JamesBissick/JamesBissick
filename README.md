@@ -31,7 +31,7 @@ This is where I try stuff and break stuff
 <p align="left">
     <a href="https://steamcommunity.com/id/ojrsh/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>&nbsp;
   <a href="https://www.linkedin.com/in/james-bissick/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
-  <a href="https://open.spotify.com/user/e684zswkmuqiweuqsunr5wt6b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>&nbsp;
+  <a href="https://open.spotify.com/user/e684zswkmuqiweuqsunr5wt6b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"></a>&nbsp;
   <a href="https://www.twitch.tv/jamesharrys"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>&nbsp;
   <a href="https://www.youtube.com/channel/UCFmFnhx5fSAZC0dT2n5xWqg?view_as=subscriber"><img alt="YouTube" title="YouTube" height="37" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
