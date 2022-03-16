@@ -29,7 +29,7 @@ This is where I try stuff and break stuff
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
   
 <p align="left">
-    <a href="https://steamcommunity.com/id/ojrsh/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>&nbsp;
+    <a href="https://steamcommunity.com/id/ojrsh/"><img alt="Steam" title="Steam" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>&nbsp;
   <a href="https://www.linkedin.com/in/james-bissick/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
   <a href="https://open.spotify.com/user/e684zswkmuqiweuqsunr5wt6b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"></a>&nbsp;
   <a href="https://www.twitch.tv/jamesharrys"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg"></a>&nbsp;
