@@ -46,7 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 March 2022 - To: 18 March 2022
+From: 12 March 2022 - To: 19 March 2022
 
 PHP         5 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.68 %
 Twig        4 hrs           █████████▒░░░░░░░░░░░░░░░   37.93 %
