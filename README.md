@@ -46,12 +46,12 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 27 March 2022
+From: 21 March 2022 - To: 28 March 2022
 
-PHP          8 hrs 52 mins   █████████████▒░░░░░░░░░░░   53.84 %
-Twig         6 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   39.22 %
-Makefile     55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+PHP          9 hrs 6 mins    ████████████▒░░░░░░░░░░░░   48.92 %
+Twig         8 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   44.93 %
+Makefile     55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
