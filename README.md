@@ -46,7 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
 JavaScript       58 mins         ████████████████████▒░░░░   81.67 %
 JSON             7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
