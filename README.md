@@ -46,7 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2022 - To: 02 May 2022
+From: 26 April 2022 - To: 03 May 2022
 
 JavaScript       12 hrs 34 mins  █████████████████████▒░░░   84.81 %
 .env file        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
