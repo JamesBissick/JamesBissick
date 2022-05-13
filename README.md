@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2022 - To: 11 May 2022
+From: 05 May 2022 - To: 12 May 2022
 
-JavaScript       4 hrs 44 mins   ██████████████▒░░░░░░░░░░   57.12 %
-PHP              2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   28.04 %
-Bash             23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-CSS              20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-GitIgnore file   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-.env file        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+PHP              4 hrs 22 mins   ███████████░░░░░░░░░░░░░░   43.61 %
+JavaScript       4 hrs 15 mins   ██████████▓░░░░░░░░░░░░░░   42.50 %
+CSS              21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Bash             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Twig             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
