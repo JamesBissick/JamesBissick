@@ -46,12 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2022 - To: 24 May 2022
-
-PHP          2 hrs 50 mins   ██████████████████▓░░░░░░   75.13 %
-Twig         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-SQL          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
