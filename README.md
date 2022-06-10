@@ -46,10 +46,10 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-PHP              6 hrs 59 mins   ██████████████▓░░░░░░░░░░   58.73 %
-Other            2 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+PHP              10 hrs 49 mins  ███████████████▓░░░░░░░░░   63.22 %
+Other            2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
 ```
 
 <!--END_SECTION:waka-->
