@@ -46,7 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 JavaScript                 3 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.35 %
 TypeScript                 3 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   32.87 %
