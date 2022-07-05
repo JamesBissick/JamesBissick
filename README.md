@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 June 2022 - To: 03 July 2022
+From: 27 June 2022 - To: 04 July 2022
 
-JavaScript       5 hrs 59 mins   ███████████░░░░░░░░░░░░░░   43.73 %
-PHP              4 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.47 %
-Twig             1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Makefile         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JSON             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-CSS              27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JavaScript       6 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   36.34 %
+PHP              5 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   31.96 %
+Makefile         1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+YAML             1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Twig             1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+JSON             31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
