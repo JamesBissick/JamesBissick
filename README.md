@@ -18,8 +18,8 @@ This is where I try stuff and break stuff
 
 - 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M1** Degree in Computer Science **@HETIC**
-- 🤖 &nbsp; Currently learning **Python**
-- 📚 &nbsp; I'm currently going through [*Complete Python Developer in 2022: Zero to Mastery*](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery)
+- 🤖 &nbsp; Currently learning **Docker & Kubernetes**
+- 📚 &nbsp; I'm currently going through [*Docker & Kubernetes: The Practical Guide*](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 - 🤔 &nbsp; I’m looking for great resources on **Kubernetes**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
