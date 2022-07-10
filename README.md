@@ -46,7 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 PHP              5 hrs 6 mins    ██████████░░░░░░░░░░░░░░░   40.41 %
 JavaScript       2 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
