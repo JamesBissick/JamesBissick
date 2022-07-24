@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 July 2022 - To: 22 July 2022
+From: 16 July 2022 - To: 23 July 2022
 
-Docker           2 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   40.11 %
-Markdown         1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
-JSON             40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-YAML             38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Makefile         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Python           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Docker           2 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
+Python           1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Markdown         1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+JSON             40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+YAML             38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Makefile         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
