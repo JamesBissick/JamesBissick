@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 July 2022 - To: 26 July 2022
+From: 20 July 2022 - To: 27 July 2022
 
-Python           7 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   40.89 %
-JavaScript       4 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
-Docker           2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-TypeScript       1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-YAML             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JSON             48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Python           7 hrs 59 mins   █████████████▓░░░░░░░░░░░   54.53 %
+JavaScript       4 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 %
+TypeScript       1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+YAML             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+JSON             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
