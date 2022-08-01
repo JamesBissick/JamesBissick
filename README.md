@@ -46,12 +46,11 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 30 July 2022
+From: 24 July 2022 - To: 31 July 2022
 
-Python           6 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.91 %
-JavaScript       4 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 %
-TypeScript       1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Other            1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+JavaScript       4 hrs 54 mins   ████████████████░░░░░░░░░   64.60 %
+TypeScript       1 hr 9 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Other            1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
 ```
 
 <!--END_SECTION:waka-->
