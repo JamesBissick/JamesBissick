@@ -46,13 +46,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 August 2022 - To: 03 September 2022
+From: 29 August 2022 - To: 05 September 2022
 
-Twig         2 hrs 19 mins   █████████████▓░░░░░░░░░░░   54.99 %
-PHP          1 hr 18 mins    ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-JavaScript   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-CSS          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        7 hrs           █████████████░░░░░░░░░░░░   52.34 %
 ```
 
 <!--END_SECTION:waka-->
