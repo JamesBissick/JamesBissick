@@ -46,9 +46,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
+From: 01 September 2022 - To: 08 September 2022
 
-Other        7 hrs           ███████████████░░░░░░░░░░   60.42 %
+Other        7 hrs           ███████████████████░░░░░░   75.77 %
 ```
 
 <!--END_SECTION:waka-->
