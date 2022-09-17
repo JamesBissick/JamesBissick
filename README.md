@@ -46,7 +46,12 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 08 September 2022 - To: 15 September 2022
+
+Twig   41 mins         ██████████████████▒░░░░░░   72.97 %
+PHP    15 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
