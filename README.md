@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-Docker           2 hrs 46 mins   ███████████░░░░░░░░░░░░░░   43.39 %
-Twig             1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-.env file        55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Prisma           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-PHP              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Makefile         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Docker           3 hrs 32 mins   ████████████▓░░░░░░░░░░░░   50.77 %
+.env file        1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Twig             39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+YAML             28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Prisma           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+JSON             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
