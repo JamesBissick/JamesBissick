@@ -46,7 +46,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 September 2022 - To: 24 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
 Docker           3 hrs 32 mins   ███████████░░░░░░░░░░░░░░   44.49 %
 YAML             1 hr 27 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
