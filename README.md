@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-YAML           1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-JSON           59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-Bash           56 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-Docker         51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-.env file      28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-TypeScript     27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+JSON           1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
+YAML           59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+Bash           54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+.env file      54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+TypeScript     34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Prisma         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
