@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 September 2022 - To: 02 October 2022
+From: 26 September 2022 - To: 03 October 2022
 
-JavaScript     1 hr 47 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-TypeScript     1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-JSON           1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Bash           54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-.env file      54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-PHP            33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+JavaScript     2 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.90 %
+TypeScript     1 hr 18 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+JSON           1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Bash           54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+.env file      54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+PHP            33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
 ```
 
 <!--END_SECTION:waka-->
