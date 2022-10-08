@@ -46,14 +46,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-JavaScript   5 hrs 15 mins   ████████████████░░░░░░░░░   64.45 %
-TypeScript   1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-JSON         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-.env file    34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-PHP          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   5 hrs 15 mins   ██████████████████▒░░░░░░   73.29 %
+TypeScript   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+PHP          33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
