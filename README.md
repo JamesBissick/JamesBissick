@@ -46,14 +46,11 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
+From: 30 September 2022 - To: 07 October 2022
 
-JavaScript   5 hrs 15 mins   ██████████████████▒░░░░░░   73.29 %
-TypeScript   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-PHP          33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   4 hrs 11 mins   █████████████████████░░░░   83.47 %
+TypeScript   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+JSON         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
