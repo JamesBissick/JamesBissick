@@ -42,7 +42,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 October 2022 - To: 24 October 2022
+From: 18 October 2022 - To: 25 October 2022
 
 Python   39 mins         █████████████████████████   100.00 %
 ```
