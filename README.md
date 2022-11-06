@@ -42,10 +42,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 October 2022 - To: 02 November 2022
-
-JavaScript   1 hr 24 mins    ████████████████████████▒   97.95 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
