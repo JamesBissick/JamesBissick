@@ -18,8 +18,6 @@ This is where I try stuff and break stuff
 - 🤔 &nbsp; I’m looking for great resources on **Kubernetes**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
-<br/>
-
 <!-- Contact -->
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
   
