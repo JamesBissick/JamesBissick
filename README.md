@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" /></h1>
+<h1 align="left">Hi there, I'm James <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" /></h1>
 
 <!-- Any image aligned to the right. Beware the width -->
 
@@ -7,7 +7,7 @@
 <!-- <img width="47%" padding-left="-20px" align="right" alt="Challenge" src="https://i.ibb.co/n0tH2Nj/ezgif-2-a598e1dfdf47.png"/> -->
 
 
-I'm James, and I'm a **Developer** & **UI/UX Designer** from Paris 🇫🇷 
+I'm a **Developer** & **UI/UX Designer** from Paris 🇫🇷 
 
 This is where I try stuff and break stuff
 
