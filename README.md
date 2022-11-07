@@ -20,8 +20,6 @@ This is where I try stuff and break stuff
 
 <br/>
 
-<!-- - 📚 &nbsp; I'm currently going through [*Docker & Kubernetes: The Practical Guide*](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) -->
-
 <!-- Contact -->
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
   
