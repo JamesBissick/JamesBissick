@@ -39,7 +39,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 03 November 2022 - To: 10 November 2022
+
+Bash       18 mins         █████████████▓░░░░░░░░░░░   54.58 %
+YAML       14 mins         ███████████░░░░░░░░░░░░░░   43.62 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
