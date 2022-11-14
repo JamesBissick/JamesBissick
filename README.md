@@ -39,7 +39,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
 Bash       18 mins         █████████████▓░░░░░░░░░░░   54.58 %
 YAML       14 mins         ███████████░░░░░░░░░░░░░░   43.62 %
