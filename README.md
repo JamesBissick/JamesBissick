@@ -39,7 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 November 2022 - To: 27 November 2022
+
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
