@@ -39,9 +39,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 27 November 2022
+From: 21 November 2022 - To: 28 November 2022
 
-Markdown   0 secs          █████████████████████████   100.00 %
+JavaScript       1 hr            ██████████████████████░░░   88.29 %
+HTML             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
