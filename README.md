@@ -39,7 +39,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
+From: 22 November 2022 - To: 29 November 2022
 
 JavaScript       1 hr            ██████████████████████░░░   88.29 %
 HTML             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
