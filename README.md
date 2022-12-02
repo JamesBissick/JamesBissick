@@ -39,13 +39,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-JavaScript       1 hr            ██████████████████████░░░   88.29 %
-HTML             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript       1 hr            ██████████░░░░░░░░░░░░░░░   39.76 %
+Docker           29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+PHP              19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Bash             16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+.env file        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Makefile         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
