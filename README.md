@@ -39,14 +39,14 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-JavaScript       1 hr            ██████████░░░░░░░░░░░░░░░   39.76 %
-Docker           29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
-PHP              19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Bash             16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-.env file        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Makefile         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+JavaScript       1 hr            █████████▓░░░░░░░░░░░░░░░   38.39 %
+Docker           29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+PHP              25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Bash             16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+.env file        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Makefile         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
