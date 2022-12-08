@@ -39,7 +39,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 November 2022 - To: 05 December 2022
+From: 29 November 2022 - To: 06 December 2022
 
 Docker       29 mins         ████████░░░░░░░░░░░░░░░░░   32.65 %
 PHP          25 mins         ███████░░░░░░░░░░░░░░░░░░   27.91 %
