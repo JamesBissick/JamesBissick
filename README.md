@@ -39,14 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
-Docker       29 mins         ████████░░░░░░░░░░░░░░░░░   32.65 %
-PHP          25 mins         ███████░░░░░░░░░░░░░░░░░░   27.91 %
-Bash         16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-.env file    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Makefile     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Text         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+PHP   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
