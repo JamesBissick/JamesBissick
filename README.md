@@ -39,7 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 January 2023 - To: 09 January 2023
+
+Other   1 hr            █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
