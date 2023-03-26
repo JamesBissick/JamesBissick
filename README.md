@@ -14,7 +14,7 @@ This is where I try stuff and break stuff
 
 - 👨🏽‍💻 &nbsp; Currently designing my **portfolio**
 - 🎓 &nbsp; Master **M2** Degree in Computer Science **@HETIC**
-- 🤖 &nbsp; Currently learning **Docker & Kubernetes**
+- 🤖 &nbsp; Currently learning **Flask**
 - 🤔 &nbsp; I’m looking for great resources on **Kubernetes**
 - 💬 &nbsp; Ask me about anything, I am happy to help
 
