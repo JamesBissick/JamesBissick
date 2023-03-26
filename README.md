@@ -2,7 +2,7 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 
-<img width="42%" padding-left="-20px" align="right" alt="Building" src="https://i.ibb.co/rdKnBvr/boom-10-page-under-construction-copie.png"/>
+<img width="42%" padding-left="-20px" align="right" alt="Under Construction" src="https://i.ibb.co/rdKnBvr/boom-10-page-under-construction-copie.png"/>
 <!-- <img width="42%" padding-left="-20px" align="right" alt="Community" src="https://i.ibb.co/fxWTKy3/Lightroom.png"/> -->
 <!-- <img width="47%" padding-left="-20px" align="right" alt="Challenge" src="https://i.ibb.co/n0tH2Nj/ezgif-2-a598e1dfdf47.png"/> -->
 
