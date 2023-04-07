@@ -39,9 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Other   1 hr            █████████████████████████   100.00 %
+Other    1 hr            ██████████████▒░░░░░░░░░░   57.16 %
 ```
 
 <!--END_SECTION:waka-->
