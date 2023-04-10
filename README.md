@@ -39,10 +39,10 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2023 - To: 07 April 2023
+From: 01 April 2023 - To: 08 April 2023
 
-Python   1 hr 16 mins    ██████████████░░░░░░░░░░░   56.05 %
-Other    1 hr            ███████████░░░░░░░░░░░░░░   43.95 %
+Python   3 hrs 29 mins   ███████████████████▒░░░░░   77.70 %
+Other    1 hr            █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
 ```
 
 <!--END_SECTION:waka-->
