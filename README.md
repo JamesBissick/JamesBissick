@@ -38,10 +38,10 @@ This is where I try stuff and break stuff
 
 <!--START_SECTION:waka-->
 
-```text
-From: 23 May 2023 - To: 30 May 2023
+```txt
+From: 24 May 2023 - To: 31 May 2023
 
-Other   3 hrs           █████████████████████████   100.00 %
+Other   1 hr 45 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
