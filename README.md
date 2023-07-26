@@ -22,7 +22,6 @@ This is where I try stuff and break stuff
 <div class="contacts" display="flex"; justify-content="center"; align-items="center";>
   
 <p align="left">
-    <a href="https://steamcommunity.com/id/ojrsh/"><img alt="Steam" title="Steam" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"></a>&nbsp;
   <a href="https://www.linkedin.com/in/james-bissick/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e"></a>&nbsp;
   <a href="https://open.spotify.com/user/e684zswkmuqiweuqsunr5wt6b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"></a>&nbsp;
   <a href="https://www.twitch.tv/jamesharrys"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg"></a>&nbsp;
