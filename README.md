@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
 TypeScript       8 hrs 28 mins   ██████████████████████░░░   88.13 %
 JavaScript       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
