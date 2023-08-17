@@ -38,13 +38,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2023 - To: 14 August 2023
+From: 09 August 2023 - To: 16 August 2023
 
-TypeScript   14 hrs 47 mins  ██████████████████████░░░   87.99 %
-JavaScript   1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TypeScript   12 hrs 27 mins  ██████████████████░░░░░░░   71.55 %
+Other        3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+JavaScript   1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
