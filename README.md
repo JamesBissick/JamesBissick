@@ -46,7 +46,7 @@ Other   8 hrs 4 mins    ██████████████████�
 <!--END_SECTION:waka-->
 
 
-**Languages and Tools:**
+**Languages, frameworks and Tools:**
 
 <!-- <a href="#" alt="clang"><img height="35" src="https://svgshare.com/i/Ntk.svg"></a>&nbsp;&nbsp; -->
 <!-- <a href="#" alt="vue"><img height="33" src="https://svgshare.com/i/Rmd.svg"></a>&nbsp;&nbsp; -->
