@@ -38,11 +38,11 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Other        2 hrs 10 mins   ████████████████▒░░░░░░░░   64.78 %
-TypeScript   1 hr 6 mins     ████████▒░░░░░░░░░░░░░░░░   33.28 %
-TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript   1 hr 45 mins    █████████████████░░░░░░░░   68.30 %
+Other        45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+TSConfig     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
