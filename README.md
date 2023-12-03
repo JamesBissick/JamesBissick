@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
 JavaScript       6 hrs 24 mins   ███████████████████████▒░   93.91 %
 Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
