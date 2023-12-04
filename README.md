@@ -38,13 +38,12 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-JavaScript       6 hrs 24 mins   ███████████████████████▒░   93.91 %
-Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-JSON             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   2 hrs 4 mins    ████████████████▓░░░░░░░░   67.02 %
+Other        1 hr            ████████░░░░░░░░░░░░░░░░░   32.34 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
