@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
 JavaScript   2 hrs 4 mins    ████████████████▓░░░░░░░░   67.02 %
 Other        1 hr            ████████░░░░░░░░░░░░░░░░░   32.34 %
