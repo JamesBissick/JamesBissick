@@ -38,9 +38,12 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Other   1 hr            █████████████████████████   100.00 %
+TypeScript   1 hr 5 mins     █████████████░░░░░░░░░░░░   51.96 %
+Other        1 hr            ████████████░░░░░░░░░░░░░   47.82 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
