@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2024 - To: 18 January 2024
+From: 12 January 2024 - To: 19 January 2024
 
 TypeScript   1 hr 5 mins     █████████████████████████   99.56 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
