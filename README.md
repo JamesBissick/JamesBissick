@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2024 - To: 03 February 2024
+From: 28 January 2024 - To: 04 February 2024
 
 Other            5 hrs 15 mins   █████████████████████▒░░░   84.83 %
 Markdown         53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
