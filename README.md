@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2024 - To: 23 February 2024
+From: 17 February 2024 - To: 24 February 2024
 
 Other   30 mins         █████████████████████████   100.00 %
 ```
