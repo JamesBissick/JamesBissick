@@ -38,13 +38,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-JavaScript       8 hrs 11 mins   ████████████████░░░░░░░░░   63.78 %
-SCSS             1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Other            1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-textmate         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-JSON             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+JavaScript   4 hrs 38 mins   ███████████████▒░░░░░░░░░   61.76 %
+Other        1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+SCSS         50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+textmate     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
