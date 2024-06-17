@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2024 - To: 14 June 2024
+From: 08 June 2024 - To: 15 June 2024
 
 JavaScript      13 hrs 29 mins  ██████████▒░░░░░░░░░░░░░░   41.58 %
 Twig            10 hrs 10 mins  ████████░░░░░░░░░░░░░░░░░   31.36 %
