@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
 PHP          10 hrs 30 mins  ██████████████▓░░░░░░░░░░   58.36 %
 YAML         2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
