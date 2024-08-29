@@ -38,9 +38,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-PHP   49 mins         █████████████████████████   100.00 %
+PHP          5 hrs 5 mins    ██████████████████████▓░░   90.23 %
+Twig         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
