@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2024 - To: 14 September 2024
+From: 08 September 2024 - To: 15 September 2024
 
 CSS           3 hrs 47 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
 SCSS          2 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.43 %
