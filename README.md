@@ -38,9 +38,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-No activity tracked
+JSON         48 mins         ████████████▓░░░░░░░░░░░░   50.84 %
+JavaScript   45 mins         ███████████▓░░░░░░░░░░░░░   47.31 %
+Twig         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
