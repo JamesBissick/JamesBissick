@@ -38,9 +38,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-No activity tracked
+PHP              9 mins          ████████████████████▒░░░░   81.65 %
+Twig             0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+YAML             0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+EJS              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
