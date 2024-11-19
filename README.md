@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 PHP              3 hrs 3 mins    ████████████████░░░░░░░░░   64.66 %
 Twig             1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
