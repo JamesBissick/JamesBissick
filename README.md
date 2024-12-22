@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 13 December 2024 - To: 20 December 2024
 
 HTML         6 hrs 51 mins   ██████████▒░░░░░░░░░░░░░░   41.56 %
 JavaScript   4 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
