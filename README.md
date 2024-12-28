@@ -38,13 +38,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 25 December 2024
+From: 19 December 2024 - To: 26 December 2024
 
-JavaScript   3 hrs 26 mins   ██████████░░░░░░░░░░░░░░░   39.52 %
-HTML         3 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   39.32 %
-CSS          1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Twig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
