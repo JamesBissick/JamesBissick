@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
 Twig          6 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   40.68 %
 JavaScript    4 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   31.72 %
