@@ -38,13 +38,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-PHP               11 hrs 1 min    ███████████▒░░░░░░░░░░░░░   45.20 %
-JavaScript        6 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   28.00 %
-ESLint File       2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-JSON              1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Diff              1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+PHP               10 hrs 7 mins   ██████████░░░░░░░░░░░░░░░   39.62 %
+JavaScript        9 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.83 %
+ESLint File       2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+JSON              1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Diff              1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
 ```
 
 <!--END_SECTION:waka-->
