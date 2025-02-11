@@ -38,7 +38,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
 PHP          9 hrs 6 mins    █████████████████▓░░░░░░░   70.92 %
 JavaScript   3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 %
