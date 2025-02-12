@@ -61,7 +61,7 @@ Diff         4 mins          ░░░░░░░░░░░░░░░░░
 <a href="#" alt="typescript" title="typescript"><img height="33" src="https://github.com/blackcater/blackcater/blob/main/images/logo-typescript.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="nodejs" title="nodejs"><img height="37" src="https://github.com/blackcater/blackcater/blob/main/images/logo-nodejs.svg"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="symfony" title="symfony"><img height="34" src="https://static-00.iconduck.com/assets.00/symfony-icon-512x512-94lugehx.png"></a>&nbsp;&nbsp;
-<a href="#" alt="python" title="python"><img height="36" src="https://svgshare.com/i/VhQ.svg"></a>&nbsp;&nbsp;
+<a href="#" alt="python" title="python"><img height="36" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp&w=256"></a>&nbsp;&nbsp;
 <a href="#" alt="postgresql" title="postgresql"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" alt="firebase" title="firebase"><img height="35" src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png"></a>&nbsp;&nbsp;
 
