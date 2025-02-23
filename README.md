@@ -39,13 +39,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 15 February 2025 - To: 22 February 2025
 
-JavaScript        14 hrs 50 mins  ████████████░░░░░░░░░░░░░   47.64 %
-PHP               9 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.08 %
-Twig              3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-CSS               2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Text              37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JavaScript        13 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   41.67 %
+PHP               10 hrs 53 mins  ████████▒░░░░░░░░░░░░░░░░   33.47 %
+CSS               3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Twig              2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Gettext Catalog   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
