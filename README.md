@@ -39,13 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-YAML         2 hrs 23 mins   ███████████░░░░░░░░░░░░░░   43.55 %
-Twig         2 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.93 %
-PHP          39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-VCL file     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
