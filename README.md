@@ -39,13 +39,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
-Markdown     32 mins         ████████████████▓░░░░░░░░   67.12 %
-Twig         8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Makefile     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+YAML         1 hr 5 mins     ██████████████▓░░░░░░░░░░   58.79 %
+Markdown     32 mins         ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+Twig         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
