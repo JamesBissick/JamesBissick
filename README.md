@@ -39,13 +39,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 04 June 2025
+From: 29 May 2025 - To: 05 June 2025
 
-Twig              3 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.33 %
-PHP               1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-YAML              1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-JSON              34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-CSS               30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Twig              7 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.83 %
+PHP               2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+YAML              1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+CSS               36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+JSON              34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
