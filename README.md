@@ -39,13 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 08 November 2025 - To: 15 November 2025
 
-Twig              1 hr 20 mins    █████████▒░░░░░░░░░░░░░░░   37.77 %
-Gettext Catalog   46 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-Locale            21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-YAML              16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-PHP               16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
