@@ -39,12 +39,12 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-SCSS              1 hr 6 mins     ██████████████████▓░░░░░░   74.20 %
-Twig              21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 %
-CSS               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Twig              2 hrs 38 mins   █████████████████▒░░░░░░░   69.94 %
+SCSS              1 hr 6 mins     ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+CSS               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
