@@ -39,11 +39,11 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
-Twig              2 hrs 38 mins   █████████████████▒░░░░░░░   69.94 %
-SCSS              1 hr 6 mins     ███████▒░░░░░░░░░░░░░░░░░   29.28 %
-CSS               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Twig              3 hrs 1 min     ██████████████████▒░░░░░░   72.70 %
+SCSS              1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+CSS               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
