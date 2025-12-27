@@ -39,10 +39,9 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-Twig   1 hr 57 mins    ████████████████████████▒   96.90 %
-PHP    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
