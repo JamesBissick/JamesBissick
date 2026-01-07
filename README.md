@@ -39,10 +39,10 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Twig   32 mins         ██████████████▒░░░░░░░░░░   56.76 %
-PHP    24 mins         ██████████▓░░░░░░░░░░░░░░   43.24 %
+YAML   1 hr 30 mins    ████████████▓░░░░░░░░░░░░   50.50 %
+Twig   1 hr 28 mins    ████████████▒░░░░░░░░░░░░   49.50 %
 ```
 
 <!--END_SECTION:waka-->
