@@ -39,7 +39,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
 Twig   7 hrs 55 mins   █████████████░░░░░░░░░░░░   52.59 %
 YAML   2 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
