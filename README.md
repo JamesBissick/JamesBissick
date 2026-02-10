@@ -39,7 +39,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
 SCSS         2 hrs 48 mins   ███████████████████░░░░░░   75.63 %
 PHP          34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
