@@ -39,7 +39,7 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
 Twig   1 hr 42 mins          ███████████████████▒░░░░░   76.87 %
 SCSS   30 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
