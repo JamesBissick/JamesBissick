@@ -39,9 +39,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2026 - To: 31 May 2026
+From: 25 May 2026 - To: 01 June 2026
 
-No activity tracked
+Twig   3 hrs 46 mins         ████████████████████████▒   97.27 %
+PHP    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+SCSS   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
