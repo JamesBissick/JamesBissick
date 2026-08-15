@@ -39,13 +39,12 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-PHP    3 hrs 54 mins         ████████████████████████▒   97.11 %
-SCSS   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-INI    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Twig   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-YAML   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP    1 hr 21 mins          █████████████████░░░░░░░░   68.41 %
+YAML   32 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Twig   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+JSON   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
