@@ -39,13 +39,13 @@ This is where I try stuff and break stuff
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-JavaScript        1 hr 55 mins          ███████▒░░░░░░░░░░░░░░░░░   29.27 %
-PHP               1 hr 53 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Twig              44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-CSS               38 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-HTML              32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+CSS               2 hrs 27 mins         ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+PHP               1 hr 37 mins          █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+YAML              1 hr 1 min            ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Diff              38 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+HTML              32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 ```
 
 <!--END_SECTION:waka-->
